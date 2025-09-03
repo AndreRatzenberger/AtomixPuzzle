@@ -1,0 +1,16 @@
+# AtomixPuzzle .gitignore
+__pycache__/
+build/
+dist/
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+*.log
+.idea/
+.vscode/
+*.swp
+.env
+.env.*
